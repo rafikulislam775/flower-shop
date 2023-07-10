@@ -2,3 +2,31 @@
   margin: 0;
   padding: 0;
 }
+ /* this is header section*/
+.header-container {
+  background-color: #f978941a;
+  display: flex;
+  height: 80vh;
+  padding: 25px;
+  align-items: center;
+  justify-content: space-around;
+}
+/*  */
+.title {
+  padding-bottom: 20px;
+  font-size: 60px;
+}
+.description {
+  padding-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #E55473;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+.img-container {
+  height: 480px;
+  width: 400px;
+}
