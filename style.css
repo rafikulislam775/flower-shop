@@ -37,6 +37,7 @@
   margin: auto;
   padding: 50px;
 }
+/* flower cards section */
 .cards {
   display: flex;
   justify-content: center;
@@ -73,9 +74,11 @@
   padding: 25px;
   text-align: center;
 }
+
 .icon {
   width: 50px;
 }
+/* 3rd section of body */
 span {
   color: #e55473;
 }
@@ -104,7 +107,7 @@ span {
   height: 250px;
   margin-bottom: 55px;
 }
-/* this last part  */
+/* this last part of body */
 .bg-container {
   background-image: url("./asset/Rectangle\ 9.png");
   text-align: center;
@@ -112,6 +115,7 @@ span {
   margin: auto;
   /* margin-left: 130px; */
   background-size: cover;
+  margin-bottom: 55px;
 }
 .bg-title {
   padding: 50px;
@@ -126,4 +130,16 @@ h6 {
   margin-top: 20px;
   margin-right: 5px;
   border-radius: 5px;
+}
+/* this is the footer section */
+.footer-container {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 70px;
+}
+.footer-container > h1,
+p,
+h6 {
+  padding-bottom: 20px;
 }
