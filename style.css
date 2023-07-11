@@ -89,3 +89,18 @@ span {
 .img-cont {
   width: 50%;
 }
+/* <!-- 4rd section of body --> */
+.header-bar {
+  text-align: center;
+  margin: 50px;
+}
+.img-cards-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.img-card {
+  width: 200px;
+  height: 250px;
+  margin-bottom: 55px;
+}
