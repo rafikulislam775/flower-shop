@@ -30,7 +30,7 @@
   height: 480px;
   width: 400px;
 }
-/* this ts  main section */
+/* this is  main section */
 .flower-header {
   text-align: center;
   width: 50%;
@@ -62,4 +62,18 @@
 }
 .img-3 {
   width: 250px;
+}
+
+/* 2nd section */
+.icon-container{
+    display: flex;
+    background-color:#F4F4F4;
+    justify-content: space-around;
+    margin: 70px;
+    padding: 25px;
+    text-align: center;
+
+}
+.icon{
+    width: 50px;
 }
